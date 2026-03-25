@@ -1,3 +1,4 @@
 _test/
 .DS_Store
 .claude
+.venv
