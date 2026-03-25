@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
+    <loc>https://albin54.github.io/products/cameras/sitemap.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://albin54.github.io/products/headphones/sitemap.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://albin54.github.io/products/iphones/sitemap.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://albin54.github.io/products/keyboards/sitemap.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://albin54.github.io/products/laptops/sitemap.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://albin54.github.io/products/monitors/sitemap.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://albin54.github.io/products/smartphones/sitemap.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://albin54.github.io/products/speakers/sitemap.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://albin54.github.io/products/tablets/sitemap.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://albin54.github.io/products/tvs/sitemap.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://albin54.github.io/products/watches/sitemap.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </sitemap>
 </sitemapindex>
